@@ -1,0 +1,1 @@
+export { getProcessedData } from './interview';
