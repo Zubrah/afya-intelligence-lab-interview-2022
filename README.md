@@ -1,4 +1,4 @@
-# UDSM DHIS2 Lab Interview 2022
+# Afya Intelligence Interview 2022
 
 ## Question 1
 
