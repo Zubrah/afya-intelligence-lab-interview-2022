@@ -110,8 +110,8 @@ Develop a javascript/typescript script to process the provided inputs (yearOneDa
 # Links to other Questions
 
 1. Question 2 : https://www.db-fiddle.com/f/ukiWbHCWqLQALQcLNEvXaH/3
-2. Question 3 :
+2. Question 3 : https://t.me/Afyaintelligence_interviewbot
 
 #### Links to Chatbot:
 
-- t.me/Afyaintelligence_interviewbot
+- https://t.me/Afyaintelligence_interviewbot
