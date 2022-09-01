@@ -23,7 +23,6 @@ yearOneData
     "reportingRate": "50"
   }
 ]
-
 ```
 
 yearTwoData
@@ -43,7 +42,6 @@ yearTwoData
     "reportingRate": "90"
   }
 ]
-
 ```
 
 yearThreeData
@@ -86,7 +84,6 @@ yearThreeData
     "code": "ACTIVE_MEMBERS"
   }
 ]
-
 ```
 
 ## Assignment
@@ -109,3 +106,12 @@ Develop a javascript/typescript script to process the provided inputs (yearOneDa
 2. Follow coding and testing conventions
 3. Write clean and readable codes
 4. Have Fun!
+
+# Links to other Questions
+
+1. Question 2 : https://www.db-fiddle.com/f/ukiWbHCWqLQALQcLNEvXaH/3
+2. Question 3 :
+
+#### Links to Chatbot:
+
+- t.me/Afyaintelligence_interviewbot
